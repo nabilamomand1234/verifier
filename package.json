@@ -1,0 +1,15 @@
+{
+  "name": "email_password_flutter_firebase-main",
+  "version": "1.0.0",
+  "description": "Email and Password Authentication In Flutter &amp; Firebase in Flutter 2.2",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
